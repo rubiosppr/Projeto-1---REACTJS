@@ -1,4 +1,4 @@
-# CineWave - Catálogo e Busca de Séries de TV
+# Catálogo e Busca de Séries de TV
 
 > **Projeto 1 — Programação Web Fullstack**  
 > Aplicação Frontend desenvolvida em **React.js** seguindo a arquitetura **SPA (Single Page Application)** com consumo assíncrono de dados (**AJAX**).
