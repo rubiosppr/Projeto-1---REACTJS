@@ -230,15 +230,6 @@ Todas as requisições AJAX passam por uma camada de proteção:
 4. **Acesse a aplicação no navegador:**
    Abra o endereço exibido no terminal (geralmente [http://localhost:5173](http://localhost:5173)).
 
-5. **Para gerar o build de produção otimizado:**
-   ```bash
-   npm run build
-   ```
-   Os arquivos compilados e minificados serão gerados no diretório `dist/`. Para testar a versão de produção localmente, utilize:
-   ```bash
-   npm run preview
-   ```
-
 ---
 
 ## 👥 Autoria
